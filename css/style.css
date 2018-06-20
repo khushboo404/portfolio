@@ -244,8 +244,8 @@ section h4{
     list-style-type: upper-roman;
 }
 
-.nike-dashboard p{
-    line-height: 0.1;
+.project p{
+    color: #606060;
 }
 
 /* =========PROFILE SUMMARY SECTION================= */
@@ -312,8 +312,8 @@ section h4{
     color: #606060;
 }
 
-.techzooka-hackathon p{
-    line-height: 1.0;
+.awards p{
+    color: #606060;
 }
 
 /* =========ACHIEVEMENT SECTION================= */
