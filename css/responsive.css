@@ -12,7 +12,7 @@
     width: 100%;
     }
     .skills .row{
-        width: 100%;
+        width: 95%;
     }
     .project .row {
     width: 100%;
@@ -34,7 +34,7 @@
         width: 100%;
     }
     .profile-summary .row {
-        width: 100%;
+        width: 95%;
     }
 
     .achievement {
@@ -63,7 +63,7 @@
         font-size: 1.5em;
     }
     .skills .row{
-        width: 100%;
+        width: 95%;
     }
     .skills .row .col-md-6 .content-wrapper h5 {
     font-size: 1em;
@@ -139,15 +139,5 @@
     }
     .achievement .row .col-md-4 {
         width: 48%;
-    }
-    
-    
-}
-
-@media only screen and (min-width : 768px) and (max-width : 1024px) {
-
-}
-
-@media only screen  and (min-width : 1224px) {
-
+    }  
 }
