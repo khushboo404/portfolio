@@ -244,6 +244,10 @@ section h4{
     list-style-type: upper-roman;
 }
 
+.nike-dashboard p{
+    line-height: 0.1;
+}
+
 /* =========PROFILE SUMMARY SECTION================= */
 
 .profile-summary{
@@ -302,6 +306,14 @@ section h4{
 
 .awards-role{
     color: #606060;
+}
+
+.techzooka-hackathon{
+    color: #606060;
+}
+
+.techzooka-hackathon p{
+    line-height: 1.0;
 }
 
 /* =========ACHIEVEMENT SECTION================= */
