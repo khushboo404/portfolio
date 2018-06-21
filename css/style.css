@@ -393,3 +393,120 @@ footer .intro{
 .footer-social-media{
     width: 50%;
 }
+
+/* =======IMAGE ANIMATION================ */
+/* IMAGE1 */
+.img1 {
+    position: relative;
+    width: 50%;
+}
+
+.img1:hover .image {
+    opacity: 0.2;
+}
+  
+  .img1:hover .middle {
+    opacity: 1;
+}
+
+/* IMAGE2 */
+
+.img2 {
+    position: relative;
+    width: 50%;
+}
+
+.img2:hover .image {
+    opacity: 0.2;
+}
+  
+.img2:hover .middle {
+    opacity: 1;
+}
+
+/* IMAGE3 */
+
+.img3 {
+    position: relative;
+    width: 50%;
+}
+
+.img3:hover .image {
+    opacity: 0.2;
+}
+  
+.img3:hover .middle {
+    opacity: 1;
+}
+
+/* IMAGE4 */
+
+.img4 {
+    position: relative;
+    width: 50%;
+}
+
+.img4:hover .image {
+    opacity: 0.2;
+}
+  
+.img4:hover .middle {
+    opacity: 1;
+}
+
+/* IMAGE5 */
+
+.img5 {
+    position: relative;
+    width: 50%;
+}
+
+.img5:hover .image {
+    opacity: 0.2;
+}
+  
+.img5:hover .middle {
+    opacity: 1;
+}
+
+/* IMAGE6 */
+
+.img6 {
+    position: relative;
+    width: 50%;
+}
+
+.img6:hover .image {
+    opacity: 0.2;
+}
+  
+.img6:hover .middle {
+    opacity: 1;
+}
+
+.image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.text {
+  background-color: #4CAF50;
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
+}
