@@ -1,166 +1,163 @@
 @media only screen and (min-width : 320px) and (max-width : 480px) {
-    .profile-picture{
+    .profile-picture {
         left: 25%;
     }
-    .intro-div p{
+    .intro-div p {
         text-align: left;
     }
-    .introduction .row{
+    .introduction .row {
         width: 100%;
     }
-    .skills .row .col-md-6{
+    .skills .row .col-md-6 {
     width: 100%;
     }
-    .skills .row{
+    .skills .row {
         width: 95%;
     }
-    .project .row{
+    .project .row {
     width: 100%;
     }
-    .nike-dashboard{
+    .nike-dashboard {
         list-style: none;
         padding-left: 0px;
     }
-    .project .project-subheading1{
+    .project .project-subheading1 {
         text-align: left;
     }
-    .awards .row{
+    .awards .row {
         width: 100%;
     }
-    .profile-summary .row .black{
+    .profile-summary .row .black {
         width: 100%;
     }
-    .profile-summary .row .white{
+    .profile-summary .row .white {
         width: 100%;
     }
-    .profile-summary .row{
+    .profile-summary .row {
         width: 95%;
     }
 
-    .achievement{
+    .achievement {
         padding: 2px;
     }
-    .achievement .row .col-md-4{
+    .achievement .row .col-md-4 {
         width: 48%;
     }
-   .achievement .row{
+   .achievement .row {
     width: 100%;
     }
-    .footer-contact{
+    .footer-contact {
         width: 100%;
     }
-    .footer-social-media{
+    .footer-social-media {
         width: 100%;
     }
-    .footer ul li{
+    .footer ul li {
         float: left;
     }
-    footer .intro{
+    footer .intro {
         margin: 0;
         padding: 0;
     }
 }
 
-@media only screen and (max-width : 320px){
-    .profile-picture{
+@media only screen and (max-width : 320px) {
+    .profile-picture {
         left: 20%;
     }
-    .introduction .row{
+    .skills .row .col-md-6 {
         width: 100%;
     }
-    .skills .row .col-md-6{
-        width: 100%;
-    }
-    section h4{
+    section h4 {
         font-size: 1.5em;
     }
-    .skills .row{
+    .skills .row {
         width: 95%;
     }
-    .skills .row .col-md-6 .content-wrapper h5{
+    .skills .row .col-md-6 .content-wrapper h5 { 
     font-size: 1em;
     }
-    .progress-bar-div p{
+    .progress-bar-div p {
         font-size: 14px;
     }
-    .project .row{
+    .project .row {
         width: 100%;
     }
-    .nike-dashboard{
+    .nike-dashboard {
         list-style: none;
         padding-left: 0px;
     }
-    .project .project-subheading1{
+    .project .project-subheading1 {
         text-align: left;
     }
-    .awards .row{
+    .awards .row {
         width: 100%;
     }
-    .profile-summary .row .black{
+    .profile-summary .row .black {
         width: 100%;
     }
-    .profile-summary .row .white{
+    .profile-summary .row .white {
         width: 100%;
     }
-    .profile-summary .row{
+    .profile-summary .row {
         width: 100%;
     }
-    .achievement .row .col-md-4{
+    .achievement .row .col-md-4 {
         width: 50%;
     }
-    .achievement .row{
+    .achievement .row {
         width: 100%;
     }
-    .achievement .row .col-md-4{
+    .achievement .row .col-md-4 {
         width: 48%;
     }
-    .achievement{
+    .achievement {
         padding: 2px;
     }    
-    .footer-contact{
+    .footer-contact {
         width: 100%;
     }
-    .footer-social-media{
+    .footer-social-media {
         width: 100%;
     }
-    .footer ul li{
+    .footer ul li {
         float: left;
     }
-    footer .intro{
+    footer .intro {
         margin: 0;
         padding: 0;
     }
 }
 
-@media only screen and (min-width : 481px) and (max-width : 767px){
-    .profile-picture{
+@media only screen and (min-width : 481px) and (max-width : 767px) {
+    .profile-picture {
         left: 38%;
     }
-    .introduction .row{
+    .introduction .row {
         width: 90%;
     }
-    .skills .row .col-md-6{
+    .skills .row .col-md-6 {
         width: 100%;
     }
-    .project .row{
+    .project .row {
         width: 100%;
     }
-    .awards .row{
+    .awards .row {
         width: 100%;
     }
-    .profile-summary .row{
+    .profile-summary .row {
         width: 100%;
     }
-    .achievement .row{
+    .achievement .row {
         width: 100%;
     }
-    .achievement .row .col-md-4{
+    .achievement .row .col-md-4 {
         width: 50%;
     }
-    .achievement .row{
+    .achievement .row {
         width: 100%;
     }
-    .achievement .row .col-md-4{
+    .achievement .row .col-md-4 {
         width: 48%;
     }
 }
